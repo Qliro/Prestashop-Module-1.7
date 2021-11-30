@@ -1,0 +1,18 @@
+1.0.5
+Added support for Upsell
+Added support for Update Merchant Reference
+
+1.0.4
+Upgraded to api V2
+
+1.0.3
+Fix for update of shipping options
+
+1.0.2
+Design option (one-two column)
+
+1.0.1
+Fix for payment being created twice if same request comes in at the exact same time
+
+1.0.0
+First version uploaded on GitHub
